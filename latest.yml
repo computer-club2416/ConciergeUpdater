@@ -1,8 +1,8 @@
-version: 1.0.0
+version: 1.1.0
 files:
-  - url: concierge-setup-1.0.0.exe
-    sha512: chCpbLfNyBtegFTq59aZ0INaHDsU7Jreoev8MmHFtilETKUgk+2qg7mvV0ksKUynRZkgpYzH4eEljWAqiUpWSQ==
-    size: 69223801
-path: concierge-setup-1.0.0.exe
-sha512: chCpbLfNyBtegFTq59aZ0INaHDsU7Jreoev8MmHFtilETKUgk+2qg7mvV0ksKUynRZkgpYzH4eEljWAqiUpWSQ==
-releaseDate: '2023-06-15T03:22:29.041Z'
+  - url: concierge-setup-1.1.0.exe
+    sha512: VkMmaMyvRBo81PQyqRyeEcYXzihe1cP/QOGZEL/Ta16JgUAQyu5Qwd6A7dGAOjv8byy+S9Gq42P41evnTmiA9w==
+    size: 69223577
+path: concierge-setup-1.1.0.exe
+sha512: VkMmaMyvRBo81PQyqRyeEcYXzihe1cP/QOGZEL/Ta16JgUAQyu5Qwd6A7dGAOjv8byy+S9Gq42P41evnTmiA9w==
+releaseDate: '2023-06-15T08:50:15.251Z'
